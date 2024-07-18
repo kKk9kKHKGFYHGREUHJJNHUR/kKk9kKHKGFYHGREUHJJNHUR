@@ -17,7 +17,7 @@ I am a passionate Python developer with a BE in Artificial Intelligence and Data
 
 ## Get in Touch
 - 📧 [Email](mailto:khatrikhushi88@gmail.com)
-- 💼 [LinkedIn]((https://www.linkedin.com/in/khushi-khatri-94b185215/))
+- 💼 [LinkedIn]((khushi-khatri-94b185215))
 <!---
 kKk9kKHKGFYHGREUHJJNHUR/kKk9kKHKGFYHGREUHJJNHUR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
